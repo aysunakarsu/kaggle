@@ -1,2 +1,2 @@
-# kaggle¶
+# kaggle
 
